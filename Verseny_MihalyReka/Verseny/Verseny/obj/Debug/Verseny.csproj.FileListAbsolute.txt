@@ -1,0 +1,30 @@
+C:\Users\User\Downloads\Mihály Réka\program\Verseny\Verseny\obj\Debug\Verseny.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Mihály Réka\program\Verseny\Verseny\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\Mihály Réka\program\Verseny\Verseny\obj\Debug\App.g.cs
+C:\Users\User\Downloads\Mihály Réka\program\Verseny\Verseny\obj\Debug\Verseny_MarkupCompile.cache
+C:\Users\User\Downloads\Mihály Réka\program\Verseny\Verseny\obj\Debug\Verseny_MarkupCompile.lref
+C:\Users\User\Downloads\Mihály Réka\program\Verseny\Verseny\bin\Debug\Verseny.exe.config
+C:\Users\User\Downloads\Mihály Réka\program\Verseny\Verseny\bin\Debug\Verseny.exe
+C:\Users\User\Downloads\Mihály Réka\program\Verseny\Verseny\bin\Debug\Verseny.pdb
+C:\Users\User\Downloads\Mihály Réka\program\Verseny\Verseny\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\Mihály Réka\program\Verseny\Verseny\obj\Debug\Verseny.g.resources
+C:\Users\User\Downloads\Mihály Réka\program\Verseny\Verseny\obj\Debug\Verseny.Properties.Resources.resources
+C:\Users\User\Downloads\Mihály Réka\program\Verseny\Verseny\obj\Debug\Verseny.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Mihály Réka\program\Verseny\Verseny\obj\Debug\Verseny.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Mihály Réka\program\Verseny\Verseny\obj\Debug\Verseny.exe
+C:\Users\User\Downloads\Mihály Réka\program\Verseny\Verseny\obj\Debug\Verseny.pdb
+C:\Users\User\Documents\GitHub\Verseny_MihalyReka\Verseny\Verseny\bin\Debug\Verseny.exe.config
+C:\Users\User\Documents\GitHub\Verseny_MihalyReka\Verseny\Verseny\bin\Debug\Verseny.exe
+C:\Users\User\Documents\GitHub\Verseny_MihalyReka\Verseny\Verseny\bin\Debug\Verseny.pdb
+C:\Users\User\Documents\GitHub\Verseny_MihalyReka\Verseny\Verseny\obj\Debug\Verseny.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Verseny_MihalyReka\Verseny\Verseny\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\GitHub\Verseny_MihalyReka\Verseny\Verseny\obj\Debug\App.g.cs
+C:\Users\User\Documents\GitHub\Verseny_MihalyReka\Verseny\Verseny\obj\Debug\Verseny_MarkupCompile.cache
+C:\Users\User\Documents\GitHub\Verseny_MihalyReka\Verseny\Verseny\obj\Debug\Verseny_MarkupCompile.lref
+C:\Users\User\Documents\GitHub\Verseny_MihalyReka\Verseny\Verseny\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\GitHub\Verseny_MihalyReka\Verseny\Verseny\obj\Debug\Verseny.g.resources
+C:\Users\User\Documents\GitHub\Verseny_MihalyReka\Verseny\Verseny\obj\Debug\Verseny.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\Verseny_MihalyReka\Verseny\Verseny\obj\Debug\Verseny.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\Verseny_MihalyReka\Verseny\Verseny\obj\Debug\Verseny.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Verseny_MihalyReka\Verseny\Verseny\obj\Debug\Verseny.exe
+C:\Users\User\Documents\GitHub\Verseny_MihalyReka\Verseny\Verseny\obj\Debug\Verseny.pdb
